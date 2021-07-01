@@ -15,4 +15,4 @@ sbatch dask_schedule_first
 sbatch dask_schedule_second
 sbatch dask_schedule_third
 
-This pipeline only supports graphs in edgelist format, labeled with consecutive integer. If you have an edgelist with arbitrarily named nodes, you can convert it in using the "relable_graph.py" python script.  
+This pipeline only supports graphs in edgelist format, labeled with consecutive integer. If you have an edgelist with arbitrarily named nodes, you can convert it in using the "relable_graph.py" python script.
